@@ -1,16 +1,15 @@
-# git
 
 <h3 align="center">
   
   ![header](https://raw.githubusercontent.com/franki-wolf1/git/main/GIT-STATES.png) 
   
- # 
-Introducción a GIT desde cero
+ # Introducción a GIT desde cero
+
 
 </h3> 
 
-<h2> - / Acerca de mí /</h2>
-👨‍💻 ROAD MAP
+<h2> - / 👨‍💻 ROAD MAP /</h2>
+
 <br></br>
 
   <h4> Nivel Básico: </h4>
