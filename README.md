@@ -17,14 +17,14 @@ Introducción   GIT desde cero
 
     <table>
   <tr>
-      <td rel="noreferrer"> git init: Inicializa un nuevo repositorio Git. </td>
-      <td rel="noreferrer"> git clone [URL]: Clona un repositorio Git existente. </td>
-      <td rel="noreferrer"> git add [archivo]: Añade un archivo específico al área de preparación. (BOX) </td>
-      <td rel="noreferrer"> git commit -m "[mensaje]": Confirma los cambios añadidos al área de preparación (BOX) con un mensaje descriptivo. </td>
-      <td rel="noreferrer"> git status: Muestra el estado actual del repositorio. </td>
-      <td rel="noreferrer"> git log: Muestra un registro de confirmaciones (commits). </td>
-      <td rel="noreferrer"> git push: Sube los cambios locales al repositorio remoto. </td>
-      <td rel="noreferrer"> git pull: Descarga los cambios del repositorio remoto y los fusiona con la rama actual. </td>
+      <td target="_blank"rel="noreferrer"> git init: Inicializa un nuevo repositorio Git. </td>
+      <td target="_blank"rel="noreferrer"> git clone [URL]: Clona un repositorio Git existente. </td>
+      <td target="_blank"rel="noreferrer"> git add [archivo]: Añade un archivo específico al área de preparación. (BOX) </td>
+      <td target="_blank"rel="noreferrer"> git commit -m "[mensaje]": Confirma los cambios añadidos al área de preparación (BOX) con un mensaje descriptivo. </td>
+      <td target="_blank"rel="noreferrer"> git status: Muestra el estado actual del repositorio. </td>
+      <td target="_blank"rel="noreferrer"> git log: Muestra un registro de confirmaciones (commits). </td>
+      <td target="_blank" rel="noreferrer"> git push: Sube los cambios locales al repositorio remoto. </td>
+      <td target="_blank" rel="noreferrer"> git pull: Descarga los cambios del repositorio remoto y los fusiona con la rama actual. </td>
   </tr>
     
   </table>
@@ -50,12 +50,12 @@ Introducción   GIT desde cero
 
     <table>
   <tr> 
-      <td rel="noreferrer"> git rebase [rama]: Reorganiza la historia del commit aplicando los cambios de una rama sobre otra. </td>
-      <td rel="noreferrer"> git cherry-pick [commit-hash]: Aplica los cambios de un commit específico a la rama actual. </td>
-      <td rel="noreferrer"> git bisect: Ayuda a encontrar el commit que introdujo un bug utilizando una búsqueda binaria. </td>
-      <td rel="noreferrer"> git stash: Guarda temporalmente los cambios locales sin realizar commit. </td>
-      <td rel="noreferrer"> git submodule: Permite trabajar con submódulos dentro de un repositorio Git. </td>
-      <td rel="noreferrer"> git filter-branch: Reescribe la historia del repositorio aplicando filtros. </td> 
+      <td target="_blank" rel="noreferrer"> git rebase [rama]: Reorganiza la historia del commit aplicando los cambios de una rama sobre otra. </td>
+      <td target="_blank" rel="noreferrer"> git cherry-pick [commit-hash]: Aplica los cambios de un commit específico a la rama actual. </td>
+      <td target="_blank" rel="noreferrer"> git bisect: Ayuda a encontrar el commit que introdujo un bug utilizando una búsqueda binaria. </td>
+      <td target="_blank" rel="noreferrer"> git stash: Guarda temporalmente los cambios locales sin realizar commit. </td>
+      <td target="_blank" rel="noreferrer"> git submodule: Permite trabajar con submódulos dentro de un repositorio Git. </td>
+      <td target="_blank" rel="noreferrer"> git filter-branch: Reescribe la historia del repositorio aplicando filtros. </td> 
   </tr>
     
   </table>
@@ -64,12 +64,12 @@ Introducción   GIT desde cero
 
     <table>
   <tr> 
-      <td rel="noreferrer"> git reflog: Muestra un registro detallado de las operaciones realizadas en el repositorio. </td>
-      <td rel="noreferrer"> git worktree: Permite gestionar múltiples árboles de trabajo desde un mismo repositorio. </td>
-      <td rel="noreferrer"> git bisect --run: Automatiza la búsqueda binaria de un bug ejecutando un script de prueba. </td> 
-      <td rel="noreferrer"> git notes: Permite adjuntar notas a commits sin alterar la historia principal. </td>
-      <td rel="noreferrer"> git rerere: Reutiliza resolución de conflictos previamente resueltos. </td>
-      <td rel="noreferrer"> git filter-repo: Herramienta avanzada para reescribir la historia del repositorio con mayor control y flexibilidad. </td>
+      <td target="_blank" rel="noreferrer"> git reflog: Muestra un registro detallado de las operaciones realizadas en el repositorio. </td>
+      <td target="_blank" rel="noreferrer"> git worktree: Permite gestionar múltiples árboles de trabajo desde un mismo repositorio. </td>
+      <td target="_blank" rel="noreferrer"> git bisect --run: Automatiza la búsqueda binaria de un bug ejecutando un script de prueba. </td> 
+      <td target="_blank" rel="noreferrer"> git notes: Permite adjuntar notas a commits sin alterar la historia principal. </td>
+      <td target="_blank" rel="noreferrer"> git rerere: Reutiliza resolución de conflictos previamente resueltos. </td>
+      <td target="_blank" rel="noreferrer"> git filter-repo: Herramienta avanzada para reescribir la historia del repositorio con mayor control y flexibilidad. </td>
   </tr>
     
   </table>
